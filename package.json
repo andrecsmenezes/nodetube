@@ -120,7 +120,7 @@
     "twilio": "^3.31.0",
     "twit": "^2.2.11",
     "validator": "^7.0.0",
-    "webhook-discord": "^3.5.1",
+    "webhook-discord": "^3.7.8",
     "webp-converter": "^2.3.0",
     "winston": "^3.2.1",
     "ws": "^3.3.3",
